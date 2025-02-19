@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>Doc Texte</h1>
+
+<p>Texte zu Projekten, als Meta-Information</p>
+
+<div class="posts">
+  {% for post in site.categories.doc %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
