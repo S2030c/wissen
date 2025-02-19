@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# Wissen ist die Grundlage auf die unser Leben aufbaut.
+### Wissen ist die Grundlage auf die unser Leben aufbaut.
 
 ## Wissen als Fundament der Zivilisation
 
