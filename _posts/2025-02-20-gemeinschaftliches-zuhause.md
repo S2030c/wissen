@@ -1,5 +1,6 @@
-  
+---  
 title: Gemeinschaftliches Zuhause
+---
 
 Ein gemeinschaftliches Zuhause stellt eine **Wohnform** dar, die über die traditionelle Vorstellung von Einzelhaushalten hinausgeht. Im Kern geht es darum, **Räume und Ressourcen zu teilen**, um ein **unterstützendes und vernetztes Umfeld** zu schaffen. Solche Wohnprojekte können vielfältige Formen annehmen, von Mehrgenerationenhäusern bis hin zu genossenschaftlichen Wohnanlagen.
 
